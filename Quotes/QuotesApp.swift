@@ -11,7 +11,9 @@ import SwiftUI
 struct QuotesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            let quotePreview = ViewModel()
+            ContentView(viewVM: quotePreview)
         }
     }
 }
+

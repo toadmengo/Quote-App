@@ -1,49 +1,41 @@
 {
   "images" : [
     {
-      "filename" : "icons8-coffee-break-73.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
-      "filename" : "icons8-coffee-break-72.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
-      "filename" : "icons8-coffee-break-64.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
-      "filename" : "icons8-coffee-break-68.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
-      "filename" : "icons8-coffee-break-70.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
-      "filename" : "icons8-coffee-break-67.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
-      "filename" : "icons8-coffee-break-66.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
-      "filename" : "icons8-coffee-break-65.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -54,7 +46,6 @@
       "size" : "20x20"
     },
     {
-      "filename" : "icons8-coffee-break-74.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -70,13 +61,11 @@
       "size" : "29x29"
     },
     {
-      "filename" : "icons8-coffee-break-75.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
     },
     {
-      "filename" : "icons8-coffee-break-69.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
@@ -97,7 +86,6 @@
       "size" : "83.5x83.5"
     },
     {
-      "filename" : "icons8-coffee-break-71.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
